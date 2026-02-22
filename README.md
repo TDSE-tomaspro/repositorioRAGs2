@@ -147,7 +147,11 @@ llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0)
 ```
 
 ---
-
+## evidence
+- ![alt text](imagenes/1.jpg) 
+- ![alt text](imagenes/2.jpg) 
+- ![alt text](imagenes/3.jpg) 
+- ![alt text](imagenes/4.jpg)
 ## References
 
 - [LangChain RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/)
